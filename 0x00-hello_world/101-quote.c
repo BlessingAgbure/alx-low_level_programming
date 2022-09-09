@@ -3,8 +3,6 @@
  *main - Entry point
  *
  *Description: Using 'write' to output a string
- *
- * Return:1
  */
 int main(void)
 {
