@@ -1,9 +1,6 @@
 #include <unistd.h>
-
 /** 
- * main - Entry point
- *
- *Description: Using 'write' to output a string
+ *main - Entry point
  *
  * Return: Always 1.
  */
