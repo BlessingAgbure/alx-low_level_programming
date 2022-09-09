@@ -4,7 +4,7 @@
  *
  *Description: Using 'write' to output a string
  *
- * Return: Always 1.
+ * Return:1
  */
 int main(void)
 {
