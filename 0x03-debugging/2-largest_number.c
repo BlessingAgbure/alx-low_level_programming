@@ -1,3 +1,4 @@
+
 #include "main.h"
 
 /**
@@ -22,4 +23,6 @@ largest = b;
 else
 {
 largest = c;
+}
+return (largest);
 }
