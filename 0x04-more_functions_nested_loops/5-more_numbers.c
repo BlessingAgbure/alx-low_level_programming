@@ -1,3 +1,5 @@
+TASK 5
+
 #include <stdio.h>
 #include "main.h"
 
@@ -23,3 +25,4 @@ void more_numbers(void)
 		}
 		putchar(10);
 	}
+}
